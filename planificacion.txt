@@ -2,3 +2,5 @@ Se realizara una planificacion de todo lo que se construira del prototipo
 
 En este archivo se anotara las observaciones a medida que se avance con el
 desarrollo del prototipo.
+
+Observaciones:
